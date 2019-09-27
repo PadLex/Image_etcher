@@ -1,0 +1,6 @@
+.idea/
+*.png
+!greyscale.png
+*.gcode
+!opening.gcode
+!ending.gcode
